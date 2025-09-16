@@ -1,1 +1,1 @@
-# https-github.com-p17324124431-lgtm-ibu-sehat.github.io
+# ibu-sehat.github.io
